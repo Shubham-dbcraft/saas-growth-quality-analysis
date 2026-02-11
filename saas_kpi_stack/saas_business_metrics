@@ -1,0 +1,161 @@
+The KPI stack below does more than explain how SaaS works. 
+It tells you which levers to pull to keep the business stable, predictable, and compounding. 
+
+
+The SaaS KPI Stack 
+
+1. MRR (Monthly Recurring Revenue) 
+MRR = Sum of all active customer monthly subscriptions 
+Why it exists 
+• SaaS lives on recurring revenue 
+• One-time revenue means nothing here 
+When it matters 
+• Early to growth stage 
+• Used weekly/monthly by leadership 
+How it can lie 
+• MRR ↑ but churn ↑ 
+• Discount-heavy MRR inflates growth 
+MRR growth without retention = fake growth 
+
+
+2. ARR (Annual Recurring Revenue) 
+ARR = MRR × 12 
+ARR is reporting-friendly, 
+MRR is decision-friendly. 
+Why it exists 
+• Standard for investors & large SaaS 
+• Smooths monthly volatility 
+When it matters 
+• Mid–large SaaS 
+• Fundraising, valuation 
+
+
+3. New MRR 
+What it is : 
+MRR added from new customers only. 
+Why it exists 
+Separates growth from retention. 
+When it matters 
+• Sales & marketing performance 
+• Funnel efficiency 
+Red flag 
+High New MRR + flat total MRR = leaky bucket 
+
+
+4. Churn Rate (MOST IMPORTANT KPI) 
+Customer Churn 
+Churn % = Customers Lost / Customers at Start 
+Revenue Churn 
+Revenue Churn = Revenue Lost / Starting Revenue 
+Why churn is deadly 
+Because churn kills compounding. 
+Even: 
+• 2% vs 4% monthly churn 
+→ massive long-term difference 
+When it matters 
+• Always 
+• Especially post-product-market-fit 
+Analyst mindset 
+If churn isn’t controlled, nothing else matters. 
+
+
+5. Retention Rate 
+Retention = 1 − Churn 
+Why it exists 
+Tells how “sticky” the product is. 
+Best use 
+• Cohort analysis 
+• Early warning system 
+Pro tip 
+Retention by cohort > overall retention. 
+
+
+6. ARPU (Average Revenue Per User) 
+ARPU = Total Revenue / Paying Customers 
+Why it exists 
+• Measures monetization depth 
+• Key input to LTV 
+When it matters 
+• Pricing decisions 
+• Expansion strategy 
+Can lie when 
+• ARPU ↑ due to discounts removal but churn ↑  
+
+
+7. Expansion Revenue (THE SAAS SUPERPOWER) 
+What it is 
+Revenue increase from existing customers. 
+Examples: 
+• Plan upgrade 
+• More users 
+• Usage overages 
+Why it’s gold 
+Expansion revenue: 
+• costs almost nothing 
+• improves margins 
+• increases predictability 
+Best SaaS companies grow without new customers. 
+
+
+8. NRR (Net Revenue Retention)   
+The KING KPI 
+NRR = (Starting Revenue + Expansion − Churn − Downgrades) / Starting Revenue 
+Why it matters 
+• NRR > 100% = elite SaaS 
+• Business grows even if sales stop 
+Benchmarks 
+• <90% → danger 
+• 90–100% → okay 
+• 110% → world-class 
+If you remember only one SaaS KPI, remember NRR. 
+
+
+9. CAC (Customer Acquisition Cost) 
+CAC = Sales + Marketing Spend / New Customers 
+Why it exists 
+Growth is useless if it’s too expensive. 
+When it matters 
+• Scaling phase 
+• Go-to-market decisions 
+Common mistake 
+Looking at CAC without LTV. 
+
+
+10. LTV (Lifetime Value) 
+LTV ≈ ARPU × Gross Margin / Churn 
+Why it exists 
+Shows how much a customer is worth over time. 
+Analyst insight 
+Small churn changes → huge LTV changes. 
+
+
+11. LTV / CAC Ratio 
+The unit economics truth reminder 
+Benchmarks: 
+• <2 → losing money 
+• ~3 → healthy 
+• 5 → very strong 
+This KPI decides: 
+• whether to scale 
+• whether to pause growth 
+
+
+12. Activation Rate (UNDERRATED) 
+What it is 
+% of users who reach the aha moment. 
+Why it matters 
+Bad activation → good acquisition wasted. 
+This is where product + analytics meet. 
+
+
+A Final Thought 
+Most SaaS companies don’t fail because they can’t acquire customers. 
+They fail because the business underneath acquisition doesn’t compound. 
+MRR tells you where you stand today. 
+ARR tells others how big you look. 
+But churn and NRR decide whether the business survives long enough to matter. 
+
+If you get retention and expansion right, growth becomes predictable. 
+If you don’t, growth becomes a treadmill. 
+That’s the difference between building a SaaS business — 
+and constantly rebuilding one.
